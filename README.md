@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ... C++
 
 📫 How to reach me: ... 
-[Naver_Blog](https://blog.naver.com/kkh03kkh)
-[TisTory](http://devkyunghoon.tistory.com/)
+[NAVER_BLOG](https://blog.naver.com/kkh03kkh) / [TISTORY](http://devkyunghoon.tistory.com/)
