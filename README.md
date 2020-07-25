@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KyungHoon0126)](https://github.com/KyungHoon0126)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100013173097387)](https://www.facebook.com/profile.php?id=100013173097387)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkh03kkh@gmail.com)](mailto:kkh03kkhgmail.com)
-[![NaverBlog Badge](https://img.shields.io/badge/-NAVERBlog-green?style=flat-square&link=https://blog.naver.com/kkh03kkh)](https://blog.naver.com/kkh03kkh)
+[![Naver&nbsp;Blog Badge](https://img.shields.io/badge/-Naver&nbsp;Blog-green?style=flat-square&link=https://blog.naver.com/kkh03kkh)](https://blog.naver.com/kkh03kkh)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://devkyunghoon.tistory.com/)](http://devkyunghoon.tistory.com/)
 
 [![Github Followers](https://img.shields.io/github/followers/KyungHoon0126?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/KyungHoon0126?tab=followers)
