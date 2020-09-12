@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 - C#, C++, Git
 - WPF, UWP, Network, Database
 - MVVM
+- Micro ORM, Dapper
