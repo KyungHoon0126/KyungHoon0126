@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Naver&nbsp;Blog Badge](https://img.shields.io/badge/-Naver&nbsp;Blog-green?style=flat-square&link=https://blog.naver.com/kkh03kkh)](https://blog.naver.com/kkh03kkh)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://devkyunghoon.tistory.com/)](http://devkyunghoon.tistory.com/)
 
-[![Github Followers](https://img.shields.io/github/followers/KyungHoon0126?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/KyungHoon0126?tab=followers)
+<!--[![Github Followers](https://img.shields.io/github/followers/KyungHoon0126?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/KyungHoon0126?tab=followers)-->
 
 [![KyungHoon0126's github stats](https://github-readme-stats.vercel.app/api?username=KyungHoon0126&show_icons=true&hide_border=true)](https://github.com/KyungHoon0126)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoon0126&hide=jupyter%20notebook,c)](https://github.com/anuraghazra/github-readme-stats)
