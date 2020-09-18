@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 김경훈 -- @Kim-Kyung-Hoon
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
 👋 Hi! Welcome to my Github profile!
 
