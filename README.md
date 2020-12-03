@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 - WPF, UWP, Network, Database
 - MVVM
 - Micro ORM, Dapper
+- Java, Spring
