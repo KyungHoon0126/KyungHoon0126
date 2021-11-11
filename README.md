@@ -32,11 +32,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoon0126&hide=jupyter%20notebook,c)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
-- Daegu Software HighSchool since 2019
-
-### 🌱 I’m currently learning
-- C#, C++, Git
-- WPF, UWP, Network, Database
-- MVVM
-- Micro ORM, Dapper
-- Java, Spring
+- Daegu Software HighSchool since 2019 ~ 2021
+- No.1 Healthcare group, BBROS corporation, C# .NET Developer 2021.08 ~ 
