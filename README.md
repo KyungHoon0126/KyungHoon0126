@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoon0126&hide=jupyter%20notebook,c)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### 🔭 I’m currently working on
-- **[BBROS](https://bbros.co.kr/ddocdoc) .NET Engineer** (August 2021 - Present)
+- **[BBROS](https://bbros.co.kr/ddocdoc) .NET Developer** (August 2021 - Present)
 
 ### 🌱 I'm currently studying at
 - **Soongsil University** (March 2025 - Present)
